@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[swp:home|Door43 (swp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-swp|d43-swp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-swp/archive/master.zip|d43-swp.zip]]
+
+**Recent Changes**
+{{changes>ns = swp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/swp|Ethnologue data]]
+
